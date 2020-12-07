@@ -7,7 +7,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
-  "license": "MIT",
+  "license": "GPL-3.0",
   "dependencies": {
     "nodemon": "^1.19.0",
     "twitch-js": "^2.0.0"
